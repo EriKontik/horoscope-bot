@@ -2,7 +2,7 @@
 
 A fully-automated Telegram bot that generates personalized daily horoscopes using Google's Gemini API. Delivers 5 curated signs throughout the day with intelligent scheduling and user management.
 
-**[Add Bot to Telegram](https://t.me/YOUR_BOT_USERNAME)** | **Status:** Live & Active
+**[Add Bot to Telegram](https://t.me/veronika_tebe_znak_bot)** | **Status:** Live & Active
 
 ---
 
@@ -256,7 +256,7 @@ This project is open source and available under the MIT License.
 Found a bug? Have a suggestion?  
 Feel free to open an issue or reach out directly on Telegram.
 
-**Bot Link:** [@YourBotUsername](https://t.me/YOUR_BOT_USERNAME)
+**Bot Link:** [@veronika_tebe_znak_bot](https://t.me/veronika_tebe_znak_bot)
 
 ---
 
