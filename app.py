@@ -28,9 +28,9 @@ USERS_FILE = "users.json"
 GLOBAL_FILE = "global.json"  # stores shared sign history
 
 # --- CONFIG ---
-ADMIN_ID = "2022211370"
-SIGN_WHITELIST = {"2022211370"}  # user IDs allowed to use /sign
-DONATION_CARD = "4441 1110 2380 7435"
+ADMIN_ID = "your tg id"
+SIGN_WHITELIST = {""}  # user IDs allowed to use /sign
+DONATION_CARD = "you can enter your card here"
 DONATION_CHANCE = 0.15  # 15% chance each scheduled send includes a donation nudge
 
 SEND_TIMES = [
